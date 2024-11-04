@@ -26,7 +26,7 @@ The output format should be:
 client - describe the client profile in 3 words 
 """
 
-client_prompt = load_csv_file("csv_data/purchase_list.csv")
+client_prompt = load_csv_file("data/purchase_list.csv")
 
 token_list = codifier.encode(sys_prompt + client_prompt)
 number_of_tokens = len(token_list)
