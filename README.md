@@ -2,11 +2,15 @@
 
 Repository dedicated to study OpenAI API integrations. This repository is made of many small scripts using ChatGPT API in Python.
 
+---
+
 ## Set Up
 
 1. Add an env `OPENAI_API_KEY` that contains your openAI token.
 2. Install requirements: `pip install -r requirements.txt`
-3. Run the scrips: `python <script_file_name>`
+3. Run the script: `python <script_file_name>`
+
+---
 
 ## Scripts
 
@@ -39,3 +43,5 @@ Repository dedicated to study OpenAI API integrations. This repository is made o
 **Script Path:** `/sentiment_analyzer.py`
 
 **Descriptions:** Script that uses the OpenAI API to classify the sentiment of product reviews. The script reads the product reviews from a file, then uses the OpenAI API to classify the overall sentiment of the reviews as positive, negative, or neutral. It also identifies 3 positive and 3 negative aspects of the product based on the reviews. On this script we are using for the first time the OpenAI Exception handling. You can check the output examples of this script at `output/sentiment_{product}.txt`.
+
+---
