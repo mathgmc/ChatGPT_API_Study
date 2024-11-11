@@ -1,0 +1,5 @@
+Recommendation: "Notify Client, Trigger Anti-Fraud Department, Perform Manual Verification"
+
+Type of Fraud: "Identity Theft or Credit Card Fraud"
+
+Description: "The transaction has been marked as Potential Fraud, possibly due to unusual activity or inconsistencies from the user's usual transaction patterns. Given the high-risk nature of this transaction, it is recommended that the client - if not already notified - should be made aware for potential identity theft or credit card fraud. Simultaneously, trigger the Anti-Fraud Department for an in-depth investigation. Due to the severity of the potential fraud, a manual verification should be performed to confirm the legitimacy of the transaction. These combined steps should help to properly identify the threat while also protecting the client and our institution from financial losses due to fraudulent transactions."

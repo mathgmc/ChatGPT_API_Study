@@ -44,4 +44,10 @@ Repository dedicated to study OpenAI API integrations. This repository is made o
 
 **Descriptions:** Script that uses the OpenAI API to classify the sentiment of product reviews. The script reads the product reviews from a file, then uses the OpenAI API to classify the overall sentiment of the reviews as positive, negative, or neutral. It also identifies 3 positive and 3 negative aspects of the product based on the reviews. On this script we are using for the first time the OpenAI Exception handling. You can check the output examples of this script at `output/sentiment_{product}.txt`.
 
+### Transaction Analyzer
+
+**Script Path:** `/transaction_analyzer.py`
+
+**Descriptions:** Script uses the OpenAI API to analyze financial transactions and determine whether each should be classified as Potential Fraud, and generate a recommendation for each transaction classified as Potential Fraud so that the user can take appropriate action. You can check the output examples of this script at `output/transactions_analysis.json` or `output/fraud_alert_9c_Artigo Esportivo_Potential Fraud.txt`
+
 ---

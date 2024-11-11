@@ -1,0 +1,104 @@
+{
+    "transactions": [
+        {
+            "id": "9c",
+            "type": "Crédito",
+            "merchant": "Esporte C",
+            "time": "2023-11-21 21:53:28",
+            "amount": "1103",
+            "product_name": "Artigo Esportivo",
+            "location": "Porto Alegre - RS (Brasil)",
+            "status": "Potential Fraud"
+        },
+        {
+            "id": "8c",
+            "type": "Crédito",
+            "merchant": "Padaria Doce Pão",
+            "time": "2023-11-21 21:39:28",
+            "amount": "21",
+            "product_name": "Bolos",
+            "location": "São Paulo - SP (Brasil)",
+            "status": "Approved"
+        },
+        {
+            "id": "7c",
+            "type": "Crédito",
+            "merchant": "Recarga Fácil",
+            "time": "2023-11-21 21:35:28",
+            "amount": "50",
+            "product_name": "Recarga de 50 Reais",
+            "location": "São Paulo - SP (Brasil)",
+            "status": "Approved"
+        },
+        {
+            "id": "6c",
+            "type": "Crédito",
+            "merchant": "GameStore C",
+            "time": "2023-11-15 21:35:28",
+            "amount": "180",
+            "product_name": "Jogo Digital",
+            "location": "São Paulo - SP (Brasil)",
+            "status": "Approved"
+        },
+        {
+            "id": "5c",
+            "type": "Crédito",
+            "merchant": "GameStore C",
+            "time": "2023-11-10 15:54:28",
+            "amount": "152",
+            "product_name": "Jogo Digital",
+            "location": "São Paulo - SP (Brasil)",
+            "status": "Approved"
+        },
+        {
+            "id": "4c",
+            "type": "Crédito",
+            "merchant": "Padaria Trigo Dourado",
+            "time": "2023-11-10 13:48:28",
+            "amount": "11",
+            "product_name": "Bolos",
+            "location": "São Paulo - SP (Brasil)",
+            "status": "Approved"
+        },
+        {
+            "id": "3c",
+            "type": "Crédito",
+            "merchant": "Recarga Fácil",
+            "time": "2023-11-10 13:50:28",
+            "amount": "50",
+            "product_name": "Recarga de 50 Reais",
+            "location": "São Paulo - SP (Brasil)",
+            "status": "Approved"
+        },
+        {
+            "id": "1d",
+            "type": "Débito",
+            "merchant": "Padaria Doce Pão",
+            "time": "2023-11-10 09:36:28",
+            "amount": "25",
+            "product_name": "Café da Manhã",
+            "location": "São Paulo - SP (Brasil)",
+            "status": "Approved"
+        },
+        {
+            "id": "2c",
+            "type": "Crédito",
+            "merchant": "Livraria A",
+            "time": "2023-11-10 08:47:28",
+            "amount": "96",
+            "product_name": "Livro OpenAI",
+            "location": "São Paulo - SP (Brasil)",
+            "status": "Approved"
+        },
+        {
+            "id": "1c",
+            "type": "Crédito",
+            "merchant": "GameStore D",
+            "time": "2023-11-09 14:48:28",
+            "amount": "184",
+            "product_name": "Jogo de Estratégia",
+            "location": "São Paulo - SP (Brasil)",
+            "status": "Approved"
+        }
+    ]
+}
